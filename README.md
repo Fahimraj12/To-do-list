@@ -3,7 +3,6 @@
 A simple and responsive **ToDo List application** built with **React.js**.  
 This project helps users to **add, delete, and manage daily tasks** with a clean UI.
 
----
 
 ## 🚀 Features
 - ➕ Add new tasks  
@@ -12,14 +11,12 @@ This project helps users to **add, delete, and manage daily tasks** with a clean
 - 📱 Responsive design (mobile & desktop friendly)  
 - 💾 Data persistence with local storage (optional if you implemented it)  
 
----
 
 ## 🛠️ Tech Stack
 - **Frontend**: React.js, JSX, CSS (or Tailwind CSS if used)  
 - **State Management**: React useState & useEffect hooks  
 - **Storage**: LocalStorage (if implemented)  
 
----
 
 ## 📂 Folder Structure
 todo-app/
