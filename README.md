@@ -20,18 +20,18 @@ This project helps users to **add, delete, and manage daily tasks** with a clean
 
 ## 📂 Folder Structure
 todo-app/
-####### │── public/
-####### │ └── index.html
-####### │── src/
-####### │ ├── components/
-####### │ │ ├── TodoItem.jsx
-####### │ │ ├── TodoList.jsx
-####### │ │ └── AddTodo.jsx
-####### │ ├── App.jsx
-####### │ ├── index.js
-####### │ └── App.css
-####### │── package.json
-####### └── README.md
+###### │── public/
+###### │ └── index.html
+###### │── src/
+###### │ ├── components/
+###### │ │ ├── TodoItem.jsx
+###### │ │ ├── TodoList.jsx
+###### │ │ └── AddTodo.jsx
+###### │ ├── App.jsx
+###### │ ├── index.js
+###### │ └── App.css
+###### │── package.json
+###### └── README.md
 
 
 # React + Vite
