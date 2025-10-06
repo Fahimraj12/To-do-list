@@ -35,6 +35,7 @@ todo-app/
 
 
 ## Author:
+- Mo Fahim Raj
 
 # React + Vite
 
