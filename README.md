@@ -33,6 +33,21 @@ todo-app/
 ###### │── package.json
 ###### └── README.md
 
+## ⚙️ Installation and Setup
+
+- Clone the repository:
+   ```bash
+  git clone https://github.com/FahimRaj12/Social-Media-App-Using-React.git
+  cd social-media-app
+- Install dependencies
+  ```bash
+  npm install
+- Start the development server
+  ```bash
+  npm start
+- Open in browser
+  ```bash
+  http://localhost:3000
 
 ## Author:
 - Mo Fahim Raj
