@@ -37,8 +37,8 @@ todo-app/
 
 - Clone the repository:
    ```bash
-  git clone https://github.com/FahimRaj12/Social-Media-App-Using-React.git
-  cd social-media-app
+  git clone https://github.com/FahimRaj12/To-do-list.git
+  cd todo-app
 - Install dependencies
   ```bash
   npm install
