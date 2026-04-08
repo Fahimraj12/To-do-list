@@ -54,5 +54,5 @@ todo-app/
 - 📧 [mofahimraj@gmail.com]
 - 🔗 [GitHub Profile](https://github.com/Fahimraj12)
 
-###### If you find useful, Don't forget to give the Star 
+###### If you find useful, Don't forget to give the Star ⭐ 
 
